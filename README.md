@@ -2,7 +2,7 @@
 
 ```shell
 python graph_construct.py
-python 
+python graph_embedding.py
 
 ```
 
